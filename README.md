@@ -304,8 +304,8 @@ Stress concentrations correlate with von Mises hotspots.
 
 ---
 
-### 🔄 Summary of Coupled CFD–FEA Results
-
+### Summary of Coupled CFD–FEA Results
+<p align="center">
 | Metric                                | Value        |
 |--------------------------------------|--------------|
 | Max tangential velocity (CFD)        | 12.8 m/s     |
@@ -317,7 +317,7 @@ Stress concentrations correlate with von Mises hotspots.
 | Static safety factor (FEA)           | ≈ 1.43       |
 
 ---
-
+</p>
 ### Design Implications
 
 - **Reserve strength**: raising infill to 80–90 % or adding ribs would improve safety  
