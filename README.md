@@ -64,9 +64,9 @@ A parametric study was performed to determine the optimal infill for safety and 
 
 ## Thesis Details
 
-- 🎓 **Author**: Oliwia Kruczyk  
-- 🏫 **University**: Wrocław University of Science and Technology  
-- 📚 **Thesis Title**: *Numerical investigations of the influence of the filling density in 3D printing on the strength of the rotor’s blade profile*  
+- **Author**: Oliwia Kruczyk  
+- **University**: Wrocław University of Science and Technology  
+- **Thesis Title**: *Numerical investigations of the influence of the filling density in 3D printing on the strength of the rotor’s blade profile*  
 
 
 🔬 *This project supports research on low-cost renewable energy solutions using additive manufacturing and multiphysics simulation tools.*
