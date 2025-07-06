@@ -359,8 +359,8 @@ Infill densities below **70 %** were excluded due to excessive deformation. De
 
 ---
 
-### 📝 Key Results
-
+### Key Results
+<p align="center">
 | Infill [%] | Mass [kg] | Deformation [mm] | σ<sub>vM,max</sub> [MPa] | SF   |
 |------------|-----------|------------------|--------------------------|-------|
 | 70         | 13.63     | 3.80             | 22.04                    | 1.43  |
@@ -370,7 +370,7 @@ Infill densities below **70 %** were excluded due to excessive deformation. De
 | 90         | 22.53     | 4.38             | 27.59                    | 1.47  |
 
 ---
-
+</p>
 ### Interpretation & Trade-offs
 
 - Safety factor **saturates** at ~1.45–1.47 beyond 80 % infill  
