@@ -26,6 +26,7 @@ We began by evaluating three common 3D printing materials: PLA, ABS, and PETG. P
 Once PETG was selected, the real work began.
 
 ---
+Project timeline and execution plan for the design and simulation of a 3D-printed H-Darrieus turbine blade
 <img width="2123" height="1153" alt="iScreen Shoter - Microsoft Excel - 250802153738" src="https://github.com/user-attachments/assets/956a3f38-c516-4ccb-bd43-9fbd3a217838" />
 
 
